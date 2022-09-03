@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Lucas Ortiz. I graduated from New York University in January 2022 and looking into getting into Java-related fields. Possibly looking into getting involved in Android-related fields after I enhance my Java knowledge.
+My name is Lucas Ortiz. I graduated from New York University in January 2022 and looking into getting into Java-related fields. Fields that I am currently interested in are: Spring, Android, Java native APIs, database-storage solutions (including Oracle).
 
 ## I am currently studying:
 - Spring
