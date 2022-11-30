@@ -4,7 +4,9 @@ My name is Lucas Ortiz. I graduated from New York University in January 2022 and
 
 ## I am currently studying:
 - Spring
-- Databases (SQL)
+- Databases (Cassandra)
+- Maven
+- Kubernetes/Docker
 
 ## Until now, I have worked with...
 
