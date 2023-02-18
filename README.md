@@ -13,6 +13,9 @@ My name is Lucas Ortiz. I graduated from New York University in January 2022 and
 ### Programming
 
 - Java
+- Spring Data
+- Cassandra/Cockroach DB
+- Kafka
 - Python 3
 - HTML/CSS
 - Javascript (including Node)
